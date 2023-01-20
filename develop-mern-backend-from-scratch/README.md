@@ -28,11 +28,40 @@ To follow this steps along it will be helpful to have the following:
 - After installing NPM as discribed above, you need to setup development dependencies from the command line with the following series of commands:
 
 - #### First, you need to ensure that you have an Express application generator installed.
-- - Run `npm install -g express-generator`.
+- - Please run the following command as with administrator provilages--or start the terminal as an admin.
+- - Run `sudo npm install -g express-generator`.
 
 - #### Now, you need to generate a new application with express.
 - - Note that in this example we generate a new application running with a view templating language called [pug](https://pugjs.org/), and the name of the application is backend-skeleton.
 - - Run `npx express-generator --view=pug backend-skeleton`.
+- - You should see the following output
+`create : backend-skeleton/`
+`   create : backend-skeleton/public/`
+`   create : backend-skeleton/public/javascripts/`
+`   create : backend-skeleton/public/images/`
+`   create : backend-skeleton/public/stylesheets/`
+`   create : backend-skeleton/public/stylesheets/style.css`
+`   create : backend-skeleton/routes/`
+`   create : backend-skeleton/routes/index.js`
+`   create : backend-skeleton/routes/users.js`
+`   create : backend-skeleton/views/`
+`   create : backend-skeleton/views/error.pug`
+`   create : backend-skeleton/views/index.pug`
+`   create : backend-skeleton/views/layout.pug`
+`   create : backend-skeleton/app.js`
+`   create : backend-skeleton/package.json`
+`   create : backend-skeleton/bin/`
+`   create : backend-skeleton/bin/www`
+
+`   change directory:`
+`     $ cd backend-skeleton`
+
+`   install dependencies:`
+`     $ npm install`
+
+`   run the app:`
+`     $ DEBUG=backend-skeleton:* npm start`
+
 - - Once you've done the above, you should be able to cd into the backend-skeleton application with the following command.
 - - Run `cd backend-skeleton`.
 - - Once you ran the above command, you should be able to install all dependencies which will be populated in a folder called `node_modules`. Node modules is the root folder which will contain all project files which are external to what you have developed--for now, let's call them dependencies. More on this later.
