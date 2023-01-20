@@ -39,3 +39,6 @@ To follow this steps along it will be helpful to have the following:
 - - Run `cd backend-skeleton`.
 - - Once you ran the above command, you should be able to install all dependencies which will be populated in a folder called node_modules. Node modules is the root folder which will contain all project files which are external to what you have developed--for now, let's call them dependencies. More on this later.
 - - Run `npm install`.
+- - Generally speacking, npx express generator brings a banch of vulnerabilities with it. To fix this, we need to run the following command. Most of them should have an auto-fix available.
+- - Run `npm audit fix --force`.
+- - Run `npm audit fix` audit to check if you have exactly 0 vulnerabilities.
