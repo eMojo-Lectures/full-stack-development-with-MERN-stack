@@ -2,7 +2,7 @@
 
 ## In this module, we will cover concepts such as:
 
-- Develop MERN backend from scratch,
+### Develop MERN backend from scratch,
 - - Setup backend database, MongoDB atlas, or self-hosted,
 - - Setup backend Express server and connect to MongoDB,
 - - Develop a skeleton backend for the Express server,

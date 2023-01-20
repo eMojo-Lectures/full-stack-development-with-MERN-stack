@@ -13,7 +13,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 
 ## In this module, we will cover concepts such as:
 
-- Use the backend skeleton to implement "Application 1,"
+### Use the backend skeleton to implement "Application 1,"
 - - Initialize new react app with NPX,
 - - Render application home page,
 - - Setting up folder structures and required files,

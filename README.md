@@ -13,7 +13,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 
 ## In this course, we will cover concepts such as:
 
-- Introduction to the MERN stack,
+### Introduction to the MERN stack,
 - - Initial aspects of the MERN stack,
 - - Developing MERN applications from scratch,
 - - More advanced concepts of MERN applications,
@@ -21,14 +21,14 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Industry importance of the MERN stack,
 - - MERN application examples in this course.
 
-- Setting up the development environment on MAC and Windows,
+### Setting up the development environment on MAC and Windows,
 - - IDE options and what we use in the course,
 - - Chrome development tools,
 - - Git CLI and consiquent installations,
 - - Setting up MERN stack technologies,
 - - Review development environment configurations,
 
-- Develop MERN backend from scratch,
+### Develop MERN backend from scratch,
 - - Setup backend database, MongoDB atlas, or self-hosted,
 - - Setup backend Express server and connect to MongoDB,
 - - Develop a skeleton backend for the Express server,
@@ -37,7 +37,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Integrate user security with protected API routes,
 - - Finalize implementation of the backend with user security,
 
-- Use the backend skeleton to implement "Application 1,"
+### Use the backend skeleton to implement "Application 1,"
 - - Initialize new react app with NPX,
 - - Render application home page,
 - - Setting up folder structures and required files,
@@ -49,7 +49,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Introduction to data binding,
 - - Implement data binding, props, and mapping.
 
-- Use the backend skeleton to implement "Application 1,"
+### Use the backend skeleton to implement "Application 1,"
 - - Initialize new react app with NPX,
 - - Render application home page,
 - - Setting up folder structures and required files,
@@ -61,7 +61,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Introduction to data binding,
 - - Implement data binding, props, and mapping.
 
-- Use the backend skeleton to implement "Application 2,"
+### Use the backend skeleton to implement "Application 2,"
 - - Initialize new react app with NPX,
 - - Render application home page,
 - - Setting up folder structures and required files,
@@ -73,7 +73,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Introduction to data binding,
 - - Implement data binding, props, and mapping.
 
-- Use the backend skeleton to implement "Application 3,"
+### Use the backend skeleton to implement "Application 3,"
 - - Initialize new react app with NPX,
 - - Render application home page,
 - - Setting up folder structures and required files,
@@ -85,7 +85,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Introduction to data binding,
 - - Implement data binding, props, and mapping.
 
-- Use the backend skeleton to implement "Application 4,"
+### Use the backend skeleton to implement "Application 4,"
 - - Initialize new react app with NPX,
 - - Render application home page,
 - - Setting up folder structures and required files,
