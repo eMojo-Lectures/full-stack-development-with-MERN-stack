@@ -13,19 +13,19 @@ Keep your eye on the live lecture schedules if there are any for your module.
 # In this course, we will cover concepts such as:
 
 - Introduction to the MERN stack,
--- Initial aspects of the MERN stack,
--- Developing MERN applications from scratch,
--- More advanced concepts of MERN applications,
--- MERN DevOps crush lecture,
--- Industry importance of the MERN stack,
--- MERN application examples in this course.
+- - Initial aspects of the MERN stack,
+- - Developing MERN applications from scratch,
+- - More advanced concepts of MERN applications,
+- - MERN DevOps crush lecture,
+- - Industry importance of the MERN stack,
+- - MERN application examples in this course.
 
 - Setting up the development environment on MAC and Windows,
--- IDE options and what we use in the course,
--- Chrome development tools,
--- Git CLI and consiquent installations,
--- Setting up MERN stack technologies,
--- Review development environment configurations,
+- - IDE options and what we use in the course,
+- - Chrome development tools,
+- - Git CLI and consiquent installations,
+- - Setting up MERN stack technologies,
+- - Review development environment configurations,
 
 - Develop MERN backend from scratch,
 - - Setup backend database, MongoDB atlas, or self-hosted,
