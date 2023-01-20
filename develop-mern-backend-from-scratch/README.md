@@ -1,3 +1,5 @@
+# Requires a spell check and review!
+
 # Full-Stack Development with MERN stack.
 
 ## In this module, we will cover concepts such as:
