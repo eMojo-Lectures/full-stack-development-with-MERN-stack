@@ -36,30 +36,49 @@ To follow this steps along it will be helpful to have the following:
 - - Run `npx express-generator --view=pug backend-skeleton`.
 - - You should see the following output
 `create : backend-skeleton/`
+
 `   create : backend-skeleton/public/`
+
 `   create : backend-skeleton/public/javascripts/`
+
 `   create : backend-skeleton/public/images/`
+
 `   create : backend-skeleton/public/stylesheets/`
+
 `   create : backend-skeleton/public/stylesheets/style.css`
+
 `   create : backend-skeleton/routes/`
+
 `   create : backend-skeleton/routes/index.js`
+
 `   create : backend-skeleton/routes/users.js`
+
 `   create : backend-skeleton/views/`
+
 `   create : backend-skeleton/views/error.pug`
+
 `   create : backend-skeleton/views/index.pug`
+
 `   create : backend-skeleton/views/layout.pug`
+
 `   create : backend-skeleton/app.js`
+
 `   create : backend-skeleton/package.json`
+
 `   create : backend-skeleton/bin/`
+
 `   create : backend-skeleton/bin/www`
 
 `   change directory:`
+
 `     $ cd backend-skeleton`
 
 `   install dependencies:`
+
 `     $ npm install`
 
 `   run the app:`
+
 `     $ DEBUG=backend-skeleton:* npm start`
 
 - - Once you've done the above, you should be able to cd into the backend-skeleton application with the following command.
