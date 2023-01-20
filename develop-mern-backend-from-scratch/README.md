@@ -27,11 +27,11 @@ To follow this steps along it will be helpful to have the following:
 - The first thing you need to do is to create a new express application. To do so, you need to have `npm` installed. You can install NPM by following this [link](https://nodejs.org/en/download/) and installing a version compatible with your operating system. Instructions on setting up environment will be provided in the first video related to this module.
 - After installing NPM as discribed above, you need to setup development dependencies from the command line with the following series of commands:
 
-- #### First, you need to ensure that you have an Express application generator installed.
+#### First, you need to ensure that you have an Express application generator installed.
 - - Please run the following command as with administrator provilages--or start the terminal as an admin.
 - - Run `sudo npm install -g express-generator`.
 
-- #### Now, you need to generate a new application with express.
+#### Now, you need to generate a new application with express.
 - - Note that in this example we generate a new application running with a view templating language called [pug](https://pugjs.org/), and the name of the application is backend-skeleton.
 - - Run `npx express-generator --view=pug backend-skeleton`.
 
