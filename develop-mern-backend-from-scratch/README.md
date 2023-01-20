@@ -24,7 +24,7 @@ To follow this steps along it will be helpful to have the following:
 
 ### Instructions
 
-- The first thing you need to do is to create a new express application. To do so, you need to have `npm` installed. You can install NPM by following this link[link](https://nodejs.org/en/download/) and installing a version compatible with your operating system. Instructions on setting up environment will be provided in the first video related to this module.
+- The first thing you need to do is to create a new express application. To do so, you need to have `npm` installed. You can install NPM by following this [link](https://nodejs.org/en/download/) and installing a version compatible with your operating system. Instructions on setting up environment will be provided in the first video related to this module.
 - After installing NPM as discribed above, you need to setup development dependencies from the command line with the following series of commands:
 
 - #### First, you need to ensure that you have an Express application generator installed.
