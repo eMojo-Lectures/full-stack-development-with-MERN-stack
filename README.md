@@ -1,10 +1,3 @@
-#### About Author
-
-- Full Name: Robbins Jefferson Kariseb
-- Education: ALB, Computer Science, Harvard.
-- Location: Windhoek, Namibia.
-
-
 # Full-Stack Development with MERN stack.
 Whether you want to broaden your horizon by learning new technologies or need a new approach at work, this course will help you fast-track your development with the MERN stack. Whatever the case, learning to develop with the MERN stack is one of the most considered trades in technology trends relating to React/Native. Implementing software with the MERN stack enables you to scale, test, and maintain your codebase more efficiently. That is, the MERN stack is optimal for performant web and mobile applications.
 
@@ -103,3 +96,10 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Implementing additional required models in the backend,
 - - Introduction to data binding,
 - - Implement data binding, props, and mapping.
+
+
+### About Author
+
+- Full Name: Robbins Jefferson Kariseb
+- Education: ALB, Computer Science, Harvard.
+- Location: Windhoek, Namibia.
