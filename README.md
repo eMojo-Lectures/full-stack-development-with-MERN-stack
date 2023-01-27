@@ -98,7 +98,7 @@ Keep your eye on the live lecture schedules if there are any for your module.
 - - Implement data binding, props, and mapping.
 
 
-### About Author
+### About Instructor
 
 - Full Name: Robbins Jefferson Kariseb
 - Education: ALB, Computer Science, Harvard.
